@@ -1,3 +1,1 @@
-#!/bin/bash
-new repertoire - git clone - mkdir - touch README.md
- 
+This repository contains all the commands necessary to create a new repertoire in git
