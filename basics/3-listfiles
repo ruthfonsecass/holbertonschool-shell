@@ -1,2 +1,2 @@
 #!/bin/bash
-le -l
+ls -l
