@@ -1,2 +1,2 @@
 #!/bin/bash
-lpr /tpm/iamafile
+type /tpm/iamafile
