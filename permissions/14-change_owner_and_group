@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from vicente:staff .
+chown -R vicente:staff
