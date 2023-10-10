@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -v  "(Ôo)'
+echo -e  "\U0001F10615"
