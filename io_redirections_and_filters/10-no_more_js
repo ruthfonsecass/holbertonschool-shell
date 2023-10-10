@@ -1,2 +1,2 @@
 #!/bin/bash
-find / ianame rm "*.js"
+rm -f *.js
