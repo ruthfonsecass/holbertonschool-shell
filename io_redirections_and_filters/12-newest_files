@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mtime | ls -lt
+find . -mtime 30 | ls -lt
